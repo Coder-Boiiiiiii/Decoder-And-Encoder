@@ -1,2 +1,4 @@
 # Decoder-And-Encoder
-A secret message encoder and decoder
+Description: A secret message encoder and decoder
+
+Made by MST_Creator
